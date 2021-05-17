@@ -1,0 +1,33 @@
+{
+  "batch_input": [
+    {
+      "transformation": "credit-card",
+      "value": "1111-2222-3333-4444"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "0000-2222-3333-4444"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "1111-2222-3333-5555"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "1111-3422-3333-5555"
+    },
+
+    {
+      "transformation": "credit-card",
+      "value": "1111-2222-7896-5555"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "1111-2222-3223-5555"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "8765-2222-3333-5555"
+    }
+  ]
+}

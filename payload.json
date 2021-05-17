@@ -1,0 +1,16 @@
+{
+  "batch_input": [
+    {
+      "transformation": "credit-card",
+      "value": "Q4tYgFXHxUQtCVmHEK2fdQBvV4kPVxDMgh2WPkFkKFow3Kkx5Fo3Am"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "Q4tYgFXHxUR1MYhP343bo7eeu5LwjshL5gBhAgdL7KDutcT4SvDzgw"
+    },
+    {
+      "transformation": "credit-card",
+      "value": "Q4tYgFXHxUd1rNnQTX3zYcesaP6dS55srQ17b9bepRSSf1Wjq6Jyi8"
+    }
+  ]
+}
